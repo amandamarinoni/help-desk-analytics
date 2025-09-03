@@ -1,0 +1,11 @@
+ticket_id,opened_at,closed_at,priority,status,assignee,category,channel,response_time_minutes,resolution_time_minutes,breached_sla
+T001,2025-08-01T09:15:00,2025-08-01T12:00:00,High,Closed,amanda,Incident,Email,30,165,False
+T002,2025-08-01T10:00:00,2025-08-02T09:10:00,Low,Closed,joao,Request,Portal,60,1430,False
+T003,2025-08-02T14:20:00,,Medium,Open,maria,Incident,Phone,,,
+T004,2025-08-02T15:00:00,2025-08-02T17:40:00,High,Closed,amanda,Incident,Email,20,160,False
+T005,2025-08-03T09:00:00,2025-08-03T10:30:00,Medium,Closed,maria,Request,Portal,25,90,False
+T006,2025-08-04T11:00:00,2025-08-05T11:40:00,High,Closed,amanda,Incident,Chat,15,1460,True
+T007,2025-08-04T16:30:00,,Low,In Progress,joao,Request,Email,,,
+T008,2025-08-05T08:10:00,2025-08-05T09:00:00,Low,Closed,maria,Incident,Portal,10,50,False
+T009,2025-08-06T13:00:00,2025-08-06T18:45:00,Medium,Closed,amanda,Incident,Email,20,345,False
+T010,2025-08-06T09:00:00,2025-08-07T09:10:00,High,Closed,joao,Incident,Portal,30,1450,True
