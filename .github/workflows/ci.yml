@@ -40,4 +40,8 @@ jobs:
         run: bandit -r src || true
 
       - name: Run tests
-        run: pytest -q
+        run: |
+          export PYTHONPATH="$PYTHONPATH:$(pwd)/help-desk-analytics"
+          pytest -q
+
+
