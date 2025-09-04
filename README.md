@@ -1,3 +1,4 @@
+[![CI](https://github.com/amandamarinoni/help-desk-analytics/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/amandamarinoni/help-desk-analytics/actions/workflows/ci.yml)
 # Help Desk Analytics — KPIs de Suporte (SLA, MTTR, Backlog)
 ## Rodar rápido
 ```bash
